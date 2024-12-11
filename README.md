@@ -15,7 +15,7 @@ A simple and interactive **To-Do List Application** built with React. Users can 
 
 ## Tech Stack
 
-- **Frontend**: React, CSS
+- **Frontend**: React.js, JavaScript, CSS
 
 ---
 
