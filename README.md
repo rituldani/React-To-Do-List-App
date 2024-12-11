@@ -43,17 +43,3 @@ Follow these steps to set up the project locally:
    The app will run at `http://localhost:3000/`
 
 ---
-
-## Project Structure
-```
-react-todo-list/
-├── public/
-├── src/
-│   ├── App.js          # Main component
-│   ├── index.js        # React entry point
-│   └── App.css         # Styling
-├── package.json        # Project configuration
-└── README.md           # Project documentation
-```
-
----
